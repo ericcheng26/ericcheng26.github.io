@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vettesla.com/fr/categories/</loc>
+    <loc>https://ericcheng26.github.io/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vettesla.com/categories/"
+                href="https://ericcheng26.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://vettesla.com/fr/categories/"
+                href="https://ericcheng26.github.io/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://vettesla.com/fr/tags/</loc>
+    <loc>https://ericcheng26.github.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vettesla.com/tags/"
+                href="https://ericcheng26.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://vettesla.com/fr/tags/"
+                href="https://ericcheng26.github.io/fr/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://vettesla.com/fr/</loc>
+    <loc>https://ericcheng26.github.io/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vettesla.com/"
+                href="https://ericcheng26.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://vettesla.com/fr/"
+                href="https://ericcheng26.github.io/fr/"
                 />
   </url>
   
